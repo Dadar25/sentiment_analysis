@@ -21,4 +21,8 @@ Program ini juga mencakup teknik pra-pemrosesan data, seperti tokenisasi, paddin
   - Menghitung akurasi model.
   - Menampilkan **classification report** dan matriks kebingungan untuk memvisualisasikan performa model.
 
+## Hasil
+1. Model mencapai akurasi 85% pada data validasi.
+2. Matriks kebingungan menunjukkan distribusi prediksi untuk setiap kategori sentimen.
+
 ---
