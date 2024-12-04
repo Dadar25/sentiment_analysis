@@ -1,4 +1,4 @@
-# Sentiment Analysis Using LSTM
+# Sentiment Analysis
 
 ## Deskripsi Proyek
 Repositori ini berisi program untuk melakukan analisis sentimen pada data ulasan aplikasi di Google Play Store. Proyek ini menggunakan teknik deep learning, khususnya model **Bidirectional LSTM**, untuk mengklasifikasikan sentimen menjadi tiga kategori: **positif**, **netral**, dan **negatif**.
