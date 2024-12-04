@@ -5,8 +5,6 @@ Repositori ini berisi program untuk melakukan analisis sentimen pada data ulasan
 
 Program ini juga mencakup teknik pra-pemrosesan data, seperti tokenisasi, padding, dan oversampling untuk mengatasi ketidakseimbangan kelas dalam dataset.
 
----
-
 ## Fitur Utama
 - **Pra-pemrosesan Data**:
   - Membersihkan data ulasan dengan menghapus kolom yang tidak relevan.
@@ -25,4 +23,3 @@ Program ini juga mencakup teknik pra-pemrosesan data, seperti tokenisasi, paddin
 1. Model mencapai akurasi 85% pada data validasi.
 2. Matriks kebingungan menunjukkan distribusi prediksi untuk setiap kategori sentimen.
 
----
